@@ -11,10 +11,10 @@ Chat with podcast transcripts using Cohere's CommandR Plus language model.
 Ask specific questions and receive insightful responses derived from the podcast content.
 
 ## Technologies Used
-Programming Language: Python
-Embeddings: Cohere Embedding v3
-Vector Database: ApertureDB
-Chat LLM: Cohere CommandR Plus
+1. Programming Language: Python
+2. Embeddings: Cohere Embedding v3
+3. Vector Database: ApertureDB
+4. Chat LLM: Cohere CommandR Plus
 
 ## Setup Instructions
 Prerequisites
