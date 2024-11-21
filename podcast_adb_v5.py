@@ -52,7 +52,7 @@ from aperturedb.CommonLibrary import create_connector
 # for h in logging.getLogger('aperturedb').handlers:
 #   h.setLevel(logging.ERROR)
 
-!adb config create podcast_search --host admin-vdgd8ys9.farm0000.cloud.aperturedata.io --password T6^zXh*EfGHQl0Fm --no-interactive --active
+!adb config create podcast_search --host 'host link' --password 'password' --no-interactive --active
 
 !adb utils execute status
 
@@ -69,7 +69,7 @@ utils = Utils(client)
 
 from pickle import FALSE
 text_splitter = TokenTextSplitter(chunk_size=300, chunk_overlap=100)
-os.environ["COHERE_API_KEY"] = "ALIqNxakYXjum0chFSpfAzbw7XnpsWYS1Hn2ka9d"
+os.environ["COHERE_API_KEY"] = "YOUR-API-KEY"
 cohere_embeddings = CohereEmbeddings(model="embed-english-v3.0")
 
 DESCRIPTOR_SET = "cohere_embed-english-v3.0"
