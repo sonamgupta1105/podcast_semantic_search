@@ -1,4 +1,4 @@
-# podcast_semantic_search
+# Chat with Podcast Content
 This project involves building a basic semantic search engine and a chat module for my podcast transcript files. 
 
 ### Technologies used:
