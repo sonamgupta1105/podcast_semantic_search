@@ -3,11 +3,10 @@ This project uses advanced AI tools to provide semantic search and a chat interf
 
 ## Features
 Semantic Search:
-
 Search podcast transcripts with high precision using Cohere embeddings.
 Enables contextual understanding, beyond simple keyword matching.
-Interactive Chat Module:
 
+Chat Module:
 Chat with podcast transcripts using Cohere's CommandR Plus language model.
 Ask specific questions and receive insightful responses derived from the podcast content.
 
