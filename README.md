@@ -22,7 +22,7 @@ Prerequisites
 1. Python 3.8 or later
 2. A Cohere API key (for embeddings and chat functionality)
 3. ApertureDB setup (refer to ApertureDB documentation: https://docs.aperturedata.io/Setup/client/adb)
-4. 
+
 ### AI Chronicles podcast links:
 
 YouTube: https://www.youtube.com/channel/UCVXhvCHU_wZ7lnzal-ZpfMQ/
